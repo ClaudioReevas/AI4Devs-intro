@@ -1,4 +1,9 @@
 # AI4Devs - reverse-string
+Developer: Claudio Rivas
+Proposito: Ejercicio de práctica
+
+Este es la entrega de mi ejercicio para AI4Devs. En resumen el ejercicio debe generar un sitio web simple que regrese la cadena en reversa conforme sea ingresada.
+
 
 ## Prompt Inicial
 Utiliza código HTML, CSS y Javascript para generar un programa que realice lo siguiente:
